@@ -1,0 +1,6 @@
+﻿  lab13.2.cpp
+D:\Patiuk\AP\lab_2\labs13\lab13.2\lab13.2.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Patiuk\AP\lab_2\labs13\lab13.2\lab13.2.cpp(60,2): error C2059: syntax error: '}'
+D:\Patiuk\AP\lab_2\labs13\lab13.2\lab13.2.cpp(60,4): error C2059: syntax error: 'while'
+D:\Patiuk\AP\lab_2\labs13\lab13.2\lab13.2.cpp(61,1): error C2059: syntax error: '}'
+D:\Patiuk\AP\lab_2\labs13\lab13.2\lab13.2.cpp(61,1): error C2143: syntax error: missing ';' before '}'
